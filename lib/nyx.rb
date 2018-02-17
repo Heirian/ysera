@@ -1,5 +1,5 @@
-require "nyx/railtie"
+require "ysera/railtie"
 
-module Nyx
+module Ysera
   # Your code goes here...
 end
