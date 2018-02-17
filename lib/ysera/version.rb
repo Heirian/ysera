@@ -1,3 +1,3 @@
-module Nyx
+module Ysera
   VERSION = '0.1.0'
 end
