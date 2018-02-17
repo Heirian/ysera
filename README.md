@@ -1,5 +1,5 @@
 # Nyx
-Short description and motivation.
+It's a little solution to encrypt information.
 
 ## Usage
 How to use my plugin.
