@@ -1,5 +1,5 @@
 # Nyx
-Short description and motivation.
+It's a little solution to encrypt information.
 
 ## Usage
 How to use my plugin.
@@ -8,7 +8,7 @@ How to use my plugin.
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'nyx'
+gem 'nyx', :git => 'https://github.com/Heirian/nyx'
 ```
 
 And then execute:
