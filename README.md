@@ -1,4 +1,4 @@
-# Nyx
+# Ysera
 It's a little solution to encrypt information.
 
 ## Usage
@@ -8,7 +8,7 @@ How to use my plugin.
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'nyx', :git => 'https://github.com/Heirian/nyx'
+gem 'ysera', :git => 'https://github.com/Heirian/ysera'
 ```
 
 And then execute:
@@ -18,7 +18,7 @@ $ bundle
 
 Or install it yourself as:
 ```bash
-$ gem install nyx
+$ gem install ysera
 ```
 
 ## Contributing
