@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = Ysera::VERSION
   s.authors     = ["Heirian"]
   s.email       = ["shinkcc@gmail.com"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of Ysera."
-  s.description = "TODO: Description of Ysera."
+  s.homepage    = "https://github.com/Heirian/ysera"
+  s.summary     = "It's a little solution to encrypt information."
+  s.description = "It's a easy and configurable encrypt and decrypt gem"
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
