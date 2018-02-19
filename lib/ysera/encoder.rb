@@ -7,12 +7,12 @@ module Ysera
       new(secretable).run
     end
 
+    def run; end
+
     private
 
     def initialize(secretable)
       @secretable = secretable
     end
-
-    def run; end
   end
 end
